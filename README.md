@@ -13,7 +13,9 @@ providing a single, user-friendly portal for internships and courses, we aim to 
 enrich the learning and career development experience for our users. 
  
 Technologies Used 
+
  HTML5 
+
  CSS3 
  
  
